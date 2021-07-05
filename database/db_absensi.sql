@@ -163,7 +163,7 @@ CREATE TABLE `menu` (
 INSERT INTO `menu` (`id`, `name`, `link`, `icon`, `protected`, `is_active`, `is_parent`, `sort`) VALUES
 (15, 'menu management', 'menu', 'fa fa-list-alt', NULL, 1, 42, 14),
 (16, 'master data', 'sdf', 'fa fa-folder', NULL, 1, 0, 1),
-(18, 'Data Karyawan', 'Data Anggota', 'fa fa-user', NULL, 1, 16, 2),
+(18, 'Data Karyawan', 'karyawan', 'fa fa-user', NULL, 1, 16, 2),
 (19, 'data Jabatan', 'jabatan', 'fa fa-briefcase', NULL, 1, 16, 3),
 (21, 'Data Shift', 'shift', 'fa fa-retweet', NULL, 1, 16, 4),
 (22, 'data Lokasi', 'lokasi', 'fa fa-location-arrow', NULL, 1, 16, 5),

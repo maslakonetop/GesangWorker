@@ -70,31 +70,7 @@
                     <!-- /.col -->
                 </div>
                 <?= form_close(); ?>
-                <p align='center'><b>Gunakan User dibawah ini</b></p>
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th>No</th>
-                            <th>Email</th>
-                            <th>Password</th>
-                            <th>akses</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>admin@admin.com</td>
-                            <td>password</td>
-                            <td>admin</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>operator@operator.com</td>
-                            <td>password</td>
-                            <td>operator</td>
-                        </tr>
-                    </tbody>
-                </table>
+    
             </div>
         </div>
         <!-- /.login-box-body -->
